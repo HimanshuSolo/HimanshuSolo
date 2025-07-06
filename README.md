@@ -1,5 +1,11 @@
 ## Hi there 👋, I'm Himanshu, a 3rd Year UnderGrad 
 ### My Projects : 
+- [newz-aggregator-summarizer](https://newz-aggregator-summarizer.vercel.app/) → A modern news aggregation and summarization platform powered by AI. 
+- lated → an online latex editor
+- webalyze → website analyser that scrapes data from any website and transforms it according to user prompt.
+- asami → ascii image generator
+- kaze → image editor
+
 
 <!--
 **HimanshuSolo2005/HimanshuSolo2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
