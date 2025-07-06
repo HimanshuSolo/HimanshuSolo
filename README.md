@@ -1,10 +1,12 @@
 ## Hi there 👋, I'm Himanshu, a 3rd Year UnderGrad 
+---
 ### My Projects : 
-- [newz-aggregator-summarizer](https://newz-aggregator-summarizer.vercel.app/) → A modern news aggregation and summarization platform powered by AI. 
-- lated → an online latex editor
-- webalyze → website analyser that scrapes data from any website and transforms it according to user prompt.
-- asami → ascii image generator
-- kaze → image editor
+- [Newzy World](https://newz-aggregator-summarizer.vercel.app/) → A modern news aggregation and summarization platform powered by AI.
+- [Healthify](https://healthify-9cw5.onrender.com/) → Symptom-based disease prediction and Treatment recommendations.
+- [SpendSavvy](https://personal-finance-app-nine.vercel.app/) →  A web app designed to help users track and visualize their personal financial transactions.
+- [Shortsgram](https://shortsgram.netlify.app/) → A video uploading platform just like insta reels and youtube shorts
+
+
 
 
 <!--
