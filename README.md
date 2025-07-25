@@ -1,17 +1,19 @@
 <h1>
-  [![Typing SVG](https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Cinzel&weight=800&size=35&duration=3000&pause=500&color=6BEEF7&background=1BA5FF00&center=true&vCenter=true&random=false&width=1000&lines=Wassup!!;This+is+Himanshu;Love+to+be+Solo!)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Cinzel&weight=800&size=35&duration=3000&pause=500&color=6BEEF7&background=1BA5FF00&center=true&vCenter=true&random=false&width=1000&lines=Wassup!!;This+is+Himanshu;Love+to+be+Solo!" alt="Typing SVG" /></a>
 </h1>
 
-<h3>I am a 3rd Year BTech Student. Passionate about Logic Building and Development 🧠
-</h3>
+<h2 align="center">I am a 3rd Year BTech Student. Passionate about Logic Building and Development 🧠
+</h2>
 
-### My Projects : 
+ 
+<h2 align="center">My Projects :</h2> 
 - [Newzy World](https://newz-aggregator-summarizer.vercel.app/) → A modern news aggregation and summarization platform powered by AI.
 - [Healthify](https://healthify-9cw5.onrender.com/) → Symptom-based disease prediction and Treatment recommendations.
 - [SpendSavvy](https://personal-finance-app-nine.vercel.app/) →  A web app designed to help users track and visualize their personal financial transactions.
 - [Shortsgram](https://shortsgram.netlify.app/) → A video uploading platform just like insta reels and youtube shorts
 
----
+  
+    
 ⬇️⬇️⬇️
 ### [My Portfolio](https://solo-portfolio-git-main-himanshu-solos-projects.vercel.app/)
 
