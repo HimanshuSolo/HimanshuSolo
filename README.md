@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Himanshu, a 3rd Year UnderGrad 
+## Hi there 👋, I'm Himanshu, a 3rd Year BTech Student. Passionate about Logic Building and Development 🧠
 ---
 ### My Projects : 
 - [Newzy World](https://newz-aggregator-summarizer.vercel.app/) → A modern news aggregation and summarization platform powered by AI.
