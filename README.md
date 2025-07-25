@@ -7,7 +7,7 @@
 - [Shortsgram](https://shortsgram.netlify.app/) → A video uploading platform just like insta reels and youtube shorts
 
 
-
+### [My Portfolio](https://solo-portfolio-git-main-himanshu-solos-projects.vercel.app/)
 
 <!--
 **HimanshuSolo2005/HimanshuSolo2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
