@@ -1,5 +1,10 @@
-## Hi there 👋, I'm Himanshu, a 3rd Year BTech Student. Passionate about Logic Building and Development 🧠
----
+<h1>
+  [![Typing SVG](https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Cinzel&weight=800&size=35&duration=3000&pause=500&color=6BEEF7&background=1BA5FF00&center=true&vCenter=true&random=false&width=1000&lines=Wassup!!;This+is+Himanshu;Love+to+be+Solo!)](https://git.io/typing-svg)
+</h1>
+
+<h3>I am a 3rd Year BTech Student. Passionate about Logic Building and Development 🧠
+</h3>
+
 ### My Projects : 
 - [Newzy World](https://newz-aggregator-summarizer.vercel.app/) → A modern news aggregation and summarization platform powered by AI.
 - [Healthify](https://healthify-9cw5.onrender.com/) → Symptom-based disease prediction and Treatment recommendations.
