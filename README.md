@@ -36,7 +36,7 @@
 <h3 align="center">My Portfolio</h3>
 
 <p align="center">
-  <a href="https://solo-portfolio-git-main-himanshu-solos-projects.vercel.app/">
+  <a href="https://solo-portfolio.vercel.app/">
     <strong>Portfolio</strong>
   </a> <br/>
   ➡️ <b>Still in Progress...</b>
