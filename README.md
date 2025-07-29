@@ -38,8 +38,7 @@
 <p align="center">
   <a href="https://solo-portfolio.vercel.app/">
     <strong>Portfolio</strong>
-  </a> <br/>
-  ➡️ <b>Still in Progress...</b>
+  </a> 
 </p>
 
 ---
