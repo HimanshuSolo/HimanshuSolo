@@ -27,6 +27,12 @@
   ➡️ <b>A video uploading platform like Instagram Reels and YouTube Shorts.</b>
 </p>
 
+<p align="center">
+  <a href="https://github.com/HimanshuSolo2005/Muichiro-Nexus" target="_blank"><strong>Muichiro-Nexus</strong></a>
+  <i>[Currently Working]</i>
+  ➡️ <b>A Cloud-Storage with AI Integration.</b>
+</p>
+
 ---
 
 <div align="center">⬇️⬇️⬇️</div>
