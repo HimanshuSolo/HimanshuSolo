@@ -88,5 +88,5 @@
 ---
 ## Current Situation of Mine
 - 🔭 I’m currently working on **Muichiro-Nexus** - A Cloud Storage with AI Integration
-- 🌱 I’m currently learning Backend Stuffs & and some AI talks..
+- 🌱 I’m currently learning `Backend Stuffs` & and some `AI talks..`
 -->
