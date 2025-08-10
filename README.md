@@ -1,98 +1,75 @@
-<h1>
-  <a href="https://git.io/typing-svg"><img src="https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Cinzel&weight=800&size=35&duration=3000&pause=500&color=6BEEF7&background=1BA5FF00&center=true&vCenter=true&random=false&width=1000&lines=Wassup!!;This+is+Himanshu;Love+to+be+Solo!" alt="Typing SVG" /></a>
+<!-- Typing SVG Header -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Cinzel&weight=800&size=35&duration=3000&pause=500&color=6BEEF7&background=1BA5FF00&center=true&vCenter=true&random=false&width=1000&lines=Wassup!!;This+is+Himanshu;Love+to+be+Solo!" alt="Typing SVG" />
+  </a>
 </h1>
 
-<h2 align="center">I am a 3rd Year BTech Student. Passionate about Logic Building and Development 🧠
-</h2>
-
-<h2 align="center">My Projects:</h2>
-
-<p align="center">
-  <a href="https://newz-aggregator-summarizer.vercel.app/" target="_blank"><strong>Newzy World</strong></a>
-  ➡️ <b>A modern news aggregation and summarization platform powered by AI.</b
-</p>
-
-<p align="center">
-  <a href="https://healthify-9cw5.onrender.com/" target="_blank"><strong>Healthify</strong></a>
-  ➡️ <b>Symptom-based disease prediction and treatment recommendations.</b>
-</p>
-
-<p align="center">
-  <a href="https://personal-finance-app-nine.vercel.app/" target="_blank"><strong>SpendSavvy</strong></a>
-  ➡️ <b>Helps users track and visualize personal financial transactions.</b>
-</p>
-
-<p align="center">
-  <a href="https://shortsgram.netlify.app/" target="_blank"><strong>Shortsgram</strong></a>
-  ➡️ <b>A video uploading platform like Instagram Reels and YouTube Shorts.</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/HimanshuSolo2005/Muichiro-Nexus" target="_blank"><strong>Muichiro-Nexus</strong></a>
-  <i>[Currently Working]</i>
-  ➡️ <b>A Cloud-Storage with AI Integration.</b>
-</p>
+<h2 align="center">💻 3rd Year B.Tech Student | Logic Builder | Developer 🧠</h2>
 
 ---
 
-<div align="center">⬇️⬇️⬇️</div>
+## 🚀 My Projects  
+<div align="center">
 
-<br/>
+| Project | Description |
+|---------|-------------|
+| [**Newzy World**](https://newz-aggregator-summarizer.vercel.app/) | 📰 Modern AI-powered news aggregation & summarization platform. |
+| [**Healthify**](https://healthify-9cw5.onrender.com/) | 🩺 Symptom-based disease prediction & treatment recommendations. |
+| [**SpendSavvy**](https://personal-finance-app-nine.vercel.app/) | 💰 Personal finance tracker & visualization tool. |
+| [**Shortsgram**](https://shortsgram.netlify.app/) | 🎥 Reels/Shorts-style video sharing platform. |
+| [**Muichiro-Nexus**](https://github.com/HimanshuSolo2005/Muichiro-Nexus) *(WIP)* | ☁️ Cloud storage with AI integration. |
 
-<h3 align="center">My Portfolio</h3>
+</div>
 
+---
+
+## 🌐 Portfolio  
 <p align="center">
   <a href="https://solo-portfolio.vercel.app/">
-    <strong>Portfolio</strong>
-  </a> 
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-%2300C4CC?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
-<h3 align="center">I'm Here:</h3>
+
+## 📬 Connect with Me  
 <p align="center">
-<a href="https://www.linkedin.com/in/himanshuverma192005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshuverma192005" height="30" width="40" /></a>
-<a href="https://www.instagram.com/himanshu._.verma2005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu._.verma2005" height="30" width="40" /></a>
-
----
-<h3 align="center">Techstacks:</h3>
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
+  <a href="https://www.linkedin.com/in/himanshuverma192005/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/himanshu._.verma2005/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
-## Current Situation of Mine
-- 🔭 I’m currently working on **Muichiro-Nexus** - A Cloud Storage with AI Integration
-- 🌱 I’m currently learning `Backend Stuffs` & and some `AI talks..`
--->
+
+## 🛠 Tech Stack  
+<p align="center">
+<img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuSolo2005&show_icons=true&theme=tokyonight" alt="GitHub stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuSolo2005&theme=tokyonight" alt="GitHub streak" height="170"/>
+</div>
+
+---
+
+## 📌 Currently  
+- 🔭 Working on **Muichiro-Nexus** - Cloud Storage with AI  
+- 🌱 Learning **Backend Development** & **AI**  
+
+---
+
+⭐ **Feel free to check out my repositories and give them a star if you like!**
