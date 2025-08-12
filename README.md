@@ -60,7 +60,7 @@
 ![HimanshuSolo2005's Stats]()
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuSolo2005&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuSolo2005&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="170"/>
 </div>
 
 ---
