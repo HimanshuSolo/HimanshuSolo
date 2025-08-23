@@ -56,8 +56,8 @@
 <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
-![HimanshuSolo2005's Stats]()
+--- 
+
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HimanshuSolo2005&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="170"/>
