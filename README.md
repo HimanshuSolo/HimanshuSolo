@@ -18,7 +18,7 @@
 | [**Healthify**](https://healthify-9cw5.onrender.com/) | 🩺 Symptom-based disease prediction & treatment recommendations. |
 | [**SpendSavvy**](https://personal-finance-app-nine.vercel.app/) | 💰 Personal finance tracker & visualization tool. |
 | [**Shortsgram**](https://shortsgram.netlify.app/) | 🎥 Reels/Shorts-style video sharing platform. |
-| [**Muichiro-Nexus**](https://github.com/HimanshuSolo2005/Muichiro-Nexus) *(WIP)* | ☁️ Cloud storage with AI integration. |
+| [**Muichiro-Nexus**](https://github.com/HimanshuSolo2005/Muichiro-Nexus) | ☁️ Cloud storage with AI integration. |
 
 </div>
 
