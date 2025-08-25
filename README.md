@@ -72,6 +72,4 @@
 
 ⭐ **Feel free to check out my repositories and give them a star if you like!**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/himanshuverma192005/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himslash2005@gmail.com) 
 
