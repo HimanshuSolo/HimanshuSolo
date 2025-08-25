@@ -58,10 +58,9 @@
 
 --- 
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuSolo2005&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="170"/>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HimanshuSolo2005&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HimanshuSolo2005&theme=tokyonight&hide_border=false)<br/>
 
 ---
 
@@ -72,3 +71,7 @@
 ---
 
 ⭐ **Feel free to check out my repositories and give them a star if you like!**
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/himanshuverma192005/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himslash2005@gmail.com) 
+
