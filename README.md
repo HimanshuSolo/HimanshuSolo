@@ -19,6 +19,8 @@
 | [**SpendSavvy**](https://personal-finance-app-nine.vercel.app/) | 💰 Personal finance tracker & visualization tool. |
 | [**Shortsgram**](https://shortsgram.netlify.app/) | 🎥 Reels/Shorts-style video sharing platform. |
 | [**Muichiro-Nexus**](https://github.com/HimanshuSolo2005/Muichiro-Nexus) | ☁️ Cloud storage with AI integration. |
+| [**Nexus**](https://github.com/quantinium3/dampe) | TBD |
+
 
 </div>
 
