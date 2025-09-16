@@ -20,6 +20,8 @@
 | [**Shortsgram**](https://shortsgram.netlify.app/) | 🎥 Reels/Shorts-style video sharing platform. |
 | [**Muichiro-Nexus**](https://github.com/HimanshuSolo2005/Muichiro-Nexus) | ☁️ Cloud storage with AI integration. |
 | [**Nexus**](https://github.com/quantinium3/dampe) | AWS Storage with NLP Summarization. |
+| [**Portfolio**](https://solo-portfolio.vercel.app/) | 🌐 Portfolio  |
+
 
 
 </div>
