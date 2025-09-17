@@ -63,9 +63,9 @@
 --- 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HimanshuSolo2005&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HimanshuSolo2005&theme=tokyonight&hide_border=false)<br/>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HimanshuSolo&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="HimanshuSolo's GitHub Stats" />
+</p>
 ---
 
 ## 📌 Currently  
