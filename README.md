@@ -69,8 +69,8 @@
 ---
 
 ## 📌 Currently  
-- 🔭 Working on **Muichiro-Nexus** - Cloud Storage with AI  
-- 🌱 Learning **Backend Development** & **AI**  
+- Solving Problems
+- Exploring Models
 
 ---
 
