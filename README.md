@@ -1,7 +1,7 @@
 <!-- Typing SVG Header -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Cinzel&weight=800&size=40&duration=4000&pause=500&color=6BEEF7&background=1BA5FF00&center=true&vCenter=true&random=false&width=1000&lines=Wassup!!;This+is+Himanshu;Love+to+be+Solo!" alt="Typing SVG" />
+    <img src="https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Cinzel&weight=800&size=40&duration=5000&pause=1000&color=6BEEF7&background=1BA5FF00&center=true&vCenter=true&random=false&width=1000&lines=Wassup!!;This+is+Himanshu;Love+to+be+Solo!" alt="Typing SVG" />
   </a>
 </h1>
 
