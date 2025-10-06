@@ -7,6 +7,7 @@
 
 <h2 align="center">💻 3rd Year B.Tech Student | Developer</h2>
 
+
 ---
 
 ## 🚀 My Projects  
@@ -66,8 +67,11 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=HimanshuSolo&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="HimanshuSolo's GitHub Stats" />
 </p>
----
 
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=HimanshuSolo)
+
+---
 ## 📌 Currently  
 - Solving Problems
 - Exploring Models
