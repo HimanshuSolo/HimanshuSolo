@@ -17,12 +17,12 @@
 |---------|-------------|
 | [**Nexus**](https://github.com/quantinium3/dampe) | AWS Storage with NLP Summarization. |
 | [**Ausrollen**](https://github.com/quantinium3/ausrollen) | Self-Hosting Site. |
-| [**Newzy World**](https://newz-aggregator-summarizer.vercel.app/) | 📰 Modern AI-powered news aggregation & summarization platform. |
-| [**Healthify**](https://healthify-9cw5.onrender.com/) | 🩺 Symptom-based disease prediction & treatment recommendations. |
-| [**SpendSavvy**](https://personal-finance-app-nine.vercel.app/) | 💰 Personal finance tracker & visualization tool. |
-| [**Shortsgram**](https://shortsgram.netlify.app/) | 🎥 Reels/Shorts-style video sharing platform. |
-| [**Muichiro-Nexus**](https://github.com/HimanshuSolo2005/Muichiro-Nexus) | ☁️ Cloud storage with AI integration. |
-| [**Portfolio**](https://solo-portfolio.vercel.app/) | 🌐 Portfolio  |
+| [**Newzy World**](https://newz-aggregator-summarizer.vercel.app/) | Modern AI-powered news aggregation & summarization platform. |
+| [**Healthify**](https://healthify-9cw5.onrender.com/) | Symptom-based disease prediction & treatment recommendations. |
+| [**SpendSavvy**](https://personal-finance-app-nine.vercel.app/) | Personal finance tracker & visualization tool. |
+| [**Shortsgram**](https://shortsgram.netlify.app/) | Reels/Shorts-style video sharing platform. |
+| [**Muichiro-Nexus**](https://github.com/HimanshuSolo2005/Muichiro-Nexus) | Cloud storage with AI integration. |
+| [**Portfolio**](https://solo-portfolio.vercel.app/) | Portfolio  |
 
 
 
