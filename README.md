@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 My Projects  
+## My Projects  
 <div align="center">
 
 | Project | Description |
@@ -30,7 +30,7 @@
 
 ---
 
-## 🌐 Portfolio  
+## Portfolio  
 <p align="center">
   <a href="https://solo-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-%2300C4CC?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -39,7 +39,7 @@
 
 ---
 
-## 📬 Connect with Me  
+## Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/himanshuverma192005/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/himanshu._.verma2005/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -47,7 +47,7 @@
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 <p align="center">
 <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -64,7 +64,7 @@
 
 --- 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=HimanshuSolo&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="HimanshuSolo's GitHub Stats" />
 </p>
@@ -73,12 +73,12 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=HimanshuSolo)
 
 ---
-## 📌 Currently  
+## Currently  
 - Solving Problems
 - Exploring Models
 
 ---
 
-⭐ **Feel free to check out my repositories and give them a star if you like!**
+ **Feel free to check out my repositories and give them a star if you like!**
 
 
