@@ -64,12 +64,6 @@
 
 --- 
 
-# GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HimanshuSolo&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="HimanshuSolo's GitHub Stats" />
-</p>
-
-
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=HimanshuSolo)
 
 ---
