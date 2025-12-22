@@ -16,7 +16,6 @@
 | Project | Description |
 |---------|-------------|
 | [**Nexus**](https://github.com/quantinium3/dampe) | AWS Storage with NLP Summarization. |
-| [**Ausrollen**](https://github.com/quantinium3/ausrollen) | Self-Hosting Site. |
 | [**Newzy World**](https://newz-aggregator-summarizer.vercel.app/) | Modern AI-powered news aggregation & summarization platform. |
 | [**Healthify**](https://healthify-9cw5.onrender.com/) | Symptom-based disease prediction & treatment recommendations. |
 | [**SpendSavvy**](https://personal-finance-app-nine.vercel.app/) | Personal finance tracker & visualization tool. |
