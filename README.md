@@ -15,6 +15,7 @@
 
 | Project | Description |
 |---------|-------------|
+| [**CodeSync**]| A peer to peer realtime collaborative code editor for everyone with assistant of AI. |
 | [**Nexus**](https://github.com/quantinium3/dampe) | AWS Storage with NLP Summarization. |
 | [**Newzy World**](https://newz-aggregator-summarizer.vercel.app/) | Modern AI-powered news aggregation & summarization platform. |
 | [**Healthify**](https://healthify-9cw5.onrender.com/) | Symptom-based disease prediction & treatment recommendations. |
@@ -30,7 +31,7 @@
 
 ## Portfolio  
 <p align="center">
-  <a href="https://himanshusolo.dev/">
+  <a href="https://solo-portfolio-v2.vercel.app/">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-%2300C4CC?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
