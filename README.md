@@ -15,7 +15,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [**CodeSync**]| A peer to peer realtime collaborative code editor for everyone with assistant of AI. |
+| [**CodeSync**](https://github.com/HimanshuSolo/CodeSync)| A peer to peer realtime collaborative code editor for everyone with assistant of AI. |
 | [**Nexus**](https://github.com/quantinium3/dampe) | AWS Storage with NLP Summarization. |
 | [**Newzy World**](https://newz-aggregator-summarizer.vercel.app/) | Modern AI-powered news aggregation & summarization platform. |
 | [**Healthify**](https://healthify-9cw5.onrender.com/) | Symptom-based disease prediction & treatment recommendations. |
