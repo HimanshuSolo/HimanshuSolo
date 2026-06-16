@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h2 align="center">💻 3rd Year B.Tech Student | Developer</h2>
+<h2 align="center">💻 Final Year B.Tech Student | Developer</h2>
 
 
 ---
